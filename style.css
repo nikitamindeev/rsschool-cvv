@@ -1,0 +1,8 @@
+*body {
+    background: rgb(131, 134, 131);
+}
+
+.text-info {
+    color: rgb(28, 29, 28);
+    list-style: disc;
+}
